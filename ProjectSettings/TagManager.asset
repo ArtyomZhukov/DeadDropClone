@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerLegs
+  - Character
+  - Case
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Character Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Dead Layer
+    uniqueID: 2907151019
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sniper Layer
+    uniqueID: 2144076623
+    locked: 0
+  - name: Notify Layer
+    uniqueID: 3684727727
+    locked: 0
